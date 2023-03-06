@@ -44,6 +44,13 @@
   }
 
   .headline {
-    font-size: 3vw;
-    padding: 3vw;
+    background-color: rgb(255, 163, 104);
+    font-size: 1.5vw;
+    color: black;
+    padding-top: 1.5vw;
+  }
+
+  .text {
+    font-size: 1.2vw;
+    color: white;
   }
