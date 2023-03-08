@@ -19,6 +19,7 @@
   .col {
     float: left;
     padding: 0.5vw;
+    color: white;
   }
   
   .row::after {
@@ -53,4 +54,8 @@
   .text {
     font-size: 1.2vw;
     color: white;
+  }
+
+  .maincolor {
+    background-color: black;
   }
